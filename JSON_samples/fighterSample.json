@@ -1,0 +1,11 @@
+{
+    "_id": "507f1f77bcf86cd799439011",
+    "firstName": "Jon",
+    "lastName": "Jones",
+    "record": { "wins": 26, "losses": 1, "draws": 0 },
+    "age": 33,
+    "height": 76,
+    "weight": 205,
+    "reach": 96,
+    "location": "USA"
+}

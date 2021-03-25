@@ -1,0 +1,10 @@
+{
+    "_id": "507f1f77bcf86cd799439011",
+    "username": "mmafan123",
+    "firstName": "Matt",
+    "lastName": "Smith",
+    "age": "21",
+    "country": "USA",
+    "hashedPassword": "sha1$5bea469d$1$ddbc877f7e9a9187ef302e9f6a8e0a6dfd62ba8b",
+    "pickEms": []
+}
