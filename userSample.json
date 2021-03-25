@@ -1,0 +1,30 @@
+{
+    "_id": "",
+    "username": "rhagan19",
+    "firstName": "Ryan",
+    "lastName": "Hagan",
+    "age": "21",
+    "country": "USA",
+    "hashedPassword": "sha1$5bea469d$1$ddbc877f7e9a9187ef302e9f6a8e0a6dfd62ba8b",
+    "pickEms": []
+}
+{
+    "_id": "",
+    "username": "rtom216",
+    "firstName": "Ryan",
+    "lastName": "Tom",
+    "age": "23",
+    "country": "USA",
+    "hashedPassword": "asdfasdfa$j12jlj43$asdfasd$aie912492jasdfd90$ajfkasdfl1a",
+    "pickEms": []
+}
+{
+    "_id": "",
+    "username": "jpriest29",
+    "firstName": "Jesse",
+    "lastName": "Preist",
+    "age": "23",
+    "country": "USA",
+    "hashedPassword": "a$j12jlj43$asdfasd$aie91ie912492jasdfd90$ajfkasdfl1a9124",
+    "pickEms": []
+}
