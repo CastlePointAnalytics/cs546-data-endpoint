@@ -1,0 +1,464 @@
+{
+    "_id": "",
+    "fighter1": {
+      "id": "",
+      "FirstName": "Jan",
+      "LastName": "Blachowicz",
+      "Record": {"Wins": 28, "Losses": 8, "Draws": 0},
+      "Age": "38",
+      "Height":"6'2''",
+      "Weight": "205 lbs",
+      "Reach": "",
+      "Location": "Poland"
+    },
+    "fighter2": {
+    "id": "",
+    "FirstName": "Israel",
+    "LastName": "Adesanya",
+    "Record":{"Wins": 20, "Losses": 1, "Draws": 0},
+    "Age": "31",
+    "Height":"6'4''",
+    "Weight": "185 lbs",
+    "Reach": "80",
+    "Location": "USA"
+    },
+    "cpaProb": { "fighter1": 67.1, "fighter2": 32.9 },
+    "vegasProb": { "fighter1": 32.2, "fighter2": 67.8 },
+    "vegasMoneyLine": { "fighter1": 195, "fighter2": -250 },
+    "expectedValue": { "fighter1": 1.98, "fighter2": 0.46 },
+    "fightDate": "3/6/2021"
+}
+{
+    "_id": "",
+    "fighter1": {
+      "id": "",
+      "FirstName": "Amanda",
+      "LastName": "Nunes",
+      "Record":{"Wins": 21, "Losses": 4, "Draws": 0},
+      "Age": "32",
+      "Height":"5'8''",
+      "Weight": "145 lbs",
+      "Reach": "69",
+      "Location": "USA"
+    },
+    "fighter2": {
+    "id": "",
+    "FirstName": "Megan",
+    "LastName": "Anderson",
+    "Record":{"Wins": 11, "Losses": 5, "Draws": 0},
+    "Age": "31",
+    "Height":"6'0''",
+    "Weight": "145 lbs",
+    "Reach": "72",
+    "Location": "USA"
+    },
+    "cpaProb": { "fighter1": 84.6, "fighter2": 15.4 },
+    "vegasProb": { "fighter1": 88.7, "fighter2": 11.3 },
+    "vegasMoneyLine": { "fighter1": -1205, "fighter2": 750 },
+    "expectedValue": { "fighter1": 0.92, "fighter2": 1.31 },
+    "fightDate": "3/6/2021"
+
+}
+{
+    "_id": "",
+    "fighter1": {
+      "id": "",
+      "FirstName": "Petr",
+      "LastName": "Yan",
+      "Record":{"Wins": 15, "Losses": 2, "Draws": 0},
+      "Age": "28",
+      "Height":"5'7''",
+      "Weight": "135 lbs",
+      "Reach": "67",
+      "Location": "Poland"
+    },
+    "fighter2": {
+    "id": "",
+    "FirstName": "Aljamain",
+    "LastName": "Sterling",
+    "Record":{"Wins": 20, "Losses": 3, "Draws": 0},
+    "Age": "31",
+    "Height":"5'7''",
+    "Weight": "135 lbs",
+    "Reach": "71",
+    "Location": "Jamaica"
+    },
+    "cpaProb": { "fighter1": 77.8, "fighter2": 22.2 },
+    "vegasProb": { "fighter1": 51.0, "fighter2": 49.0 },
+    "vegasMoneyLine": { "fighter1": -120, "fighter2": -110 },
+    "expectedValue": { "fighter1": 1.43, "fighter2": 0.42 },
+    "fightDate": "3/6/2021"
+
+}
+{
+    "_id": "",
+    "fighter1": {
+      "id": "",
+      "FirstName": "Islam",
+      "LastName": "Makhachev",
+      "Record":{"Wins": 19, "Losses": 1, "Draws": 0},
+      "Age": "29",
+      "Height":"5'10''",
+      "Weight": "155 lbs",
+      "Reach": "70",
+      "Location": "Saudia Rabia"
+    },
+    "fighter2": {
+    "id": "",
+    "FirstName": "Drew",
+    "LastName": "Dober",
+    "Record":{"Wins": 23, "Losses": 10, "Draws": 0},
+    "Age": "32",
+    "Height":"5'8''",
+    "Weight": "155 lbs",
+    "Reach": "70",
+    "Location": "USA"
+    },
+    "cpaProb": { "fighter1": 87.1, "fighter2": 12.9 },
+    "vegasProb": { "fighter1": 73.6, "fighter2": 26.4},
+    "vegasMoneyLine": { "fighter1": -345, "fighter2": 260 },
+    "expectedValue": { "fighter1": 1.12, "fighter2": 0.47 },
+    "fightDate": "3/6/2021"
+
+}
+{
+    "_id": "",
+    "fighter1": {
+      "id": "",
+    "FirstName": "Thiago",
+    "LastName": "Santos",
+    "Record":{"Wins": 37, "Losses": 9, "Draws": 0},
+    "Age": "37",
+    "Height":"6'2''",
+    "Weight": "205 lbs",
+    "Reach": "76",
+    "Location": "Brazil"
+    },
+    "fighter2": {
+      "id": "",
+      "FirstName": "Aleksandar",
+      "LastName": "Rakic",
+      "Record":{"Wins": 14, "Losses": 2, "Draws": 0},
+      "Age": "29",
+      "Height":"6'4''",
+      "Weight": "205lbs",
+      "Reach": "78",
+      "Location": "Russia"
+    },
+    "cpaProb": { "fighter1": 70.6, "fighter2": 29.4 },
+    "vegasProb": { "fighter1": 40.6, "fighter2": 59.4},
+    "vegasMoneyLine": { "fighter1": 135, "fighter2": -165 },
+    "expectedValue": { "fighter1": 1.66, "fighter2": 0.47 },
+    "fightDate": "3/6/2021"
+
+}
+{
+    "_id": "",
+    "fighter1": {
+      "id": "",
+      "FirstName": "Dominick",
+      "LastName": "Cruz",
+      "Record":{"Wins": 23, "Losses": 3, "Draws": 0},
+      "Age": "25",
+      "Height":"5'8''",
+      "Weight": "135lbs",
+      "Reach": "68",
+      "Location": "USA"
+    },
+    "fighter2": {
+      "id": "",
+      "FirstName": "Casey",
+      "LastName": "Kenney",
+      "Record":{"Wins": 16, "Losses": 4, "Draws": 1},
+      "Age": "29",
+      "Height":"5'7''",
+      "Weight": "135lbs",
+      "Reach": "68",
+      "Location": "USA"
+    },
+    "cpaProb": { "fighter1": 75.6, "fighter2": 24.4 },
+    "vegasProb": { "fighter1": 44.0, "fighter2": 56.0},
+    "vegasMoneyLine": { "fighter1": 115, "fighter2": -145 },
+    "expectedValue": { "fighter1": 1.63, "fighter2": 0.41 },
+    "fightDate": "3/6/2021"
+
+}
+{
+    "_id": "",
+    "fighter1": {
+      "id": "",
+      "FirstName": "Song",
+      "LastName": "Yadong",
+      "Record":{"Wins": 16, "Losses": 4, "Draws": 1},
+      "Age": "23",
+      "Height":"5'8''",
+      "Weight": "135lbs",
+      "Reach": "67",
+      "Location": "South Korea"
+    },
+    "fighter2": {
+      "id": "",
+      "FirstName": "Kyler",
+      "LastName": "Phillips",
+      "Record":{"Wins": 9, "Losses": 1, "Draws": 0},
+      "Age": "25",
+      "Height":"5'8''",
+      "Weight": "135lbs",
+      "Reach": "72",
+      "Location": "USA"
+    },
+    "cpaProb": { "fighter1": 36.5, "fighter2": 63.5 },
+    "vegasProb": { "fighter1": 56.6, "fighter2": 43.4},
+    "vegasMoneyLine": { "fighter1": -145, "fighter2": 120 },
+    "expectedValue": { "fighter1": 0.62, "fighter2": 1.40 },
+    "fightDate": "3/6/2021"
+
+}
+{
+    "_id": "",
+    "fighter1": {
+      "id": "",
+      "FirstName": "Joseph",
+      "LastName": "Benaviez",
+      "Record":{"Wins": 28, "Losses": 7, "Draws": 0},
+      "Age": "36",
+      "Height":"5'4''",
+      "Weight": "125lbs",
+      "Reach": "65",
+      "Location": "Brazil"
+    },
+    "fighter2": {
+      "id": "",
+      "FirstName": "Askar",
+      "LastName": "Askarov",
+      "Record":{"Wins": 12, "Losses": 0, "Draws": 1},
+      "Age": "28",
+      "Height":"5'6''",
+      "Weight": "125lbs",
+      "Reach": "67",
+      "Location": "Russia"
+    },
+    "cpaProb": { "fighter1": 22.4, "fighter2": 77.6 },
+    "vegasProb": { "fighter1": 45.9, "fighter2": 54.1},
+    "vegasMoneyLine": { "fighter1": 105, "fighter2": -135 },
+    "expectedValue": { "fighter1": 0.46, "fighter2": 1.35},
+    "fightDate": "3/6/2021"
+
+}
+{
+    "_id": "",
+    "fighter1": {
+      "id": "",
+    "FirstName": "Rogerio",
+    "LastName": "Bontorin",
+    "Record":{"Wins": 16, "Losses": 2, "Draws": 0},
+    "Age": "28",
+    "Height":"5'5''",
+    "Weight": "125lbs",
+    "Reach": "67",
+    "Location": "Brazil"
+    },
+    "fighter2": {
+      "id": "",
+      "FirstName": "Kai",
+      "LastName": "Kara-France",
+      "Record":{"Wins": 21, "Losses": 9, "Draws": 0},
+      "Age": "27",
+      "Height":"5'4''",
+      "Weight": "125lbs",
+      "Reach": "69",
+      "Location": "USA"
+    },
+    "cpaProb": { "fighter1": 49.2, "fighter2": 50.8 },
+    "vegasProb": { "fighter1": 43.1, "fighter2": 56.9},
+    "vegasMoneyLine": { "fighter1": 120, "fighter2": -150 },
+    "expectedValue": { "fighter1": 1.08, "fighter2": 0.85},
+    "fightDate": "3/6/2021"
+
+}
+{
+    "_id": "",
+    "fighter1": {
+      "id": "",
+      "FirstName": "Tim",
+      "LastName": "Elliot",
+      "Record":{"Wins": 17, "Losses": 11, "Draws": 0},
+      "Age": "34",
+      "Height":"5'7''",
+      "Weight": "125lbs",
+      "Reach": "66",
+      "Location": "USA"
+    },
+    "fighter2": {
+      "id": "",
+      "FirstName": "Jordan",
+      "LastName": "Espinosa",
+      "Record":{"Wins": 15, "Losses": 8, "Draws": 0},
+      "Age": "31",
+      "Height":"5'6''",
+      "Weight": "125lbs",
+      "Reach": "69",
+      "Location": "USA"
+    },
+    "cpaProb": { "fighter1": 48.4, "fighter2": 51.6 },
+    "vegasProb": { "fighter1": 48.0, "fighter2": 52.0},
+    "vegasMoneyLine": { "fighter1": -105, "fighter2": -125},
+    "expectedValue": { "fighter1": 0.94, "fighter2": 0.93},
+    "fightDate": "3/6/2021"
+
+}
+{
+    "_id": "",
+    "fighter1": {
+      "id": "",
+      "FirstName": "Kennedy",
+      "LastName": "Nzechukwu",
+      "Record":{"Wins": 7, "Losses": 1, "Draws": 0},
+      "Age": "28",
+      "Height":"6'5''",
+      "Weight": "205lbs",
+      "Reach": "83",
+      "Location": "Nigeria"
+    },
+    "fighter2": {
+      "id": "",
+      "FirstName": "Carlos",
+      "LastName": "Ulberg",
+      "Record":{"Wins": 5, "Losses": 0, "Draws": 0},
+      "Age": "30",
+      "Height":"6'4''",
+      "Weight": "205lbs",
+      "Reach": "77",
+      "Location": "USA"
+    },
+    "cpaProb": { "fighter1": 33.1, "fighter2": 66.9 },
+    "vegasProb": { "fighter1": 34.4, "fighter2": 65.6},
+    "vegasMoneyLine": { "fighter1": 175, "fighter2": -225},
+    "expectedValue": { "fighter1": 0.91, "fighter2": 0.97},
+    "fightDate": "3/6/2021"
+
+}
+{
+    "_id": "",
+    "fighter1": {
+      "id": "",
+      "FirstName": "Sean",
+      "LastName": "Brady",
+      "Record":{"Wins": 13, "Losses": 0, "Draws": 0},
+      "Age": "28",
+      "Height":"5'10''",
+      "Weight": "170lbs",
+      "Reach": "72",
+      "Location": "USA"
+    },
+    "fighter2": {
+      "id": "",
+      "FirstName": "Jake",
+      "LastName": "Matthews",
+      "Record":{"Wins": 17, "Losses": 4, "Draws": 0},
+      "Age": "26",
+      "Height":"5'11''",
+      "Weight": "170lbs",
+      "Reach": "73",
+      "Location": "USA"
+    },
+    "cpaProb": { "fighter1": 73.5, "fighter2": 26.5 },
+    "vegasProb": { "fighter1": 65.1, "fighter2": 34.9},
+    "vegasMoneyLine": { "fighter1": -210, "fighter2": 175},
+    "expectedValue": { "fighter1": 1.09, "fighter2": 0.73},
+    "fightDate": "3/6/2021"
+
+}
+{
+    "_id": "",
+    "fighter1": {
+      "id": "",
+      "FirstName": "Livinha",
+      "LastName": "Souza",
+      "Record":{"Wins": 14, "Losses": 2, "Draws": 0},
+      "Age": "29",
+      "Height":"5'3''",
+      "Weight": "115lbs",
+      "Reach": "63",
+      "Location": "Brazil"
+    },
+    "fighter2": {
+      "id": "",
+      "FirstName": "Amanda",
+      "LastName": "Lemos",
+      "Record":{"Wins": 8, "Losses": 1, "Draws": 1},
+      "Age": "33",
+      "Height":"5'4''",
+      "Weight": "115lbs",
+      "Reach": "65",
+      "Location": "Brazil"
+    },
+    "cpaProb": { "fighter1": 39.0, "fighter2": 61.0 },
+    "vegasProb": { "fighter1": 37.0, "fighter2": 63.0},
+    "vegasMoneyLine": { "fighter1": 160, "fighter2": -190},
+    "expectedValue": { "fighter1": 1.01, "fighter2": 0.93},
+    "fightDate": "3/6/2021"
+
+}
+{
+    "_id": "",
+    "fighter1": {
+      "id": "",
+      "FirstName": "Uros",
+      "LastName": "Medic",
+      "Record":{"Wins": 6, "Losses": 0, "Draws": 0},
+      "Age": "27",
+      "Height":"6'1''",
+      "Weight": "155lbs",
+      "Reach": "71",
+      "Location": "Russia"
+    },
+    "fighter2": {
+      "id": "",
+      "FirstName": "Aalon",
+      "LastName": "Cruz",
+      "Record":{"Wins": 8, "Losses": 3, "Draws": 0},
+      "Age": "31",
+      "Height":"6'0''",
+      "Weight": "155lbs",
+      "Reach": "78",
+      "Location": "Brazil"
+    },
+    "cpaProb": { "fighter1": 66.4, "fighter2": 33.6},
+    "vegasProb": { "fighter1": 60.9, "fighter2": 39.1},
+    "vegasMoneyLine": { "fighter1": -175, "fighter2": 145},
+    "expectedValue": { "fighter1": 1.04, "fighter2": 0.82},
+    "fightDate": "3/6/2021"
+
+}
+{
+    "_id": "",
+    "fighter1": {
+      "id": "",
+      "FirstName": "Mario",
+      "LastName": "Bautista",
+      "Record":{"Wins": 8, "Losses": 1, "Draws": 0},
+      "Age": "27",
+      "Height":"5'9''",
+      "Weight": "135lbs",
+      "Reach": "69",
+      "Location": "Brazil"
+    },
+    "fighter2": {
+      "id": "",
+      "FirstName": "Trevin",
+      "LastName": "Jones",
+      "Record":{"Wins": 12, "Losses": 6, "Draws": 0},
+      "Age": "30",
+      "Height":"5'7''",
+      "Weight": "135lbs",
+      "Reach": "70",
+      "Location": "USA"
+    },
+    "cpaProb": { "fighter1": 33.1, "fighter2": 66.9},
+    "vegasProb": { "fighter1": 65.6, "fighter2": 34.4},
+    "vegasMoneyLine": { "fighter1": -225, "fighter2": 175},
+    "expectedValue": { "fighter1": 0.48, "fighter2": 1.84},
+    "fightDate": "3/6/2021"
+
+}
