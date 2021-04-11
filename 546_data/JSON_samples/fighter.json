@@ -78,14 +78,25 @@
     },
     {
         "_id": "507f1f77bcf86cd799439011",
-        "firstName": "Jacare",
-        "lastName": "Souza",
-        "record": { "wins": 26, "losses": 8, "draws": 0 },
-        "age": 41,
+        "firstName": "Junior Dos",
+        "lastName": "Santos",
+        "record": { "wins": 21, "losses": 8, "draws": 0 },
+        "age": 36,
         "height": 76,
-        "weight": 185,
+        "weight": 238,
         "reach": 96,
         "location": "USA"
     },
-    ]
+    {
+        "_id": "507f1f77bcf86cd799439011",
+        "firstName": "Ciryl",
+        "lastName": "Gane",
+        "record": { "wins": 6, "losses": 8, "draws": 0 },
+        "age": 41,
+        "height": 76,
+        "weight": 249,
+        "reach": 96,
+        "location": "USA"
+    }
+]
     
