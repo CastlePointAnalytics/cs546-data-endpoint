@@ -1,8 +1,6 @@
 [
     {
-        "_id": "807f191a810c19729de860ae",
         "fighter1": {
-            "_id": "507f1f77bcf86cd799439011",
             "firstName": "Derek",
             "lastName": "Brunson",
             "record": { "wins": 21, "losses": 7, "draws": 0 },
@@ -13,7 +11,6 @@
             "location": "USA"
         },
         "fighter2": {
-            "_id": "507f1f77bcf86cd799439011",
             "firstName": "Kevin",
             "lastName": "Holland",
             "record": { "wins": 21, "losses": 5, "draws": 1 },
@@ -27,12 +24,10 @@
         "vegasProb": { "fighter1": 39.1, "fighter2": 60.9 },
         "vegasMoneyLine": { "fighter1": 145, "fighter2": -175 },
         "expectedValue": { "fighter1": 1.06, "fighter2": 0.87 },
-        "fightDate": "4/10/2021"
+        "fightDate": "3/20/2021"
     },
     {
-        "_id": "807f191a810c19729de860ae",
         "fighter1": {
-            "_id": "507f1f77bcf86cd799439011",
             "firstName": "Gregor",
             "lastName": "Gillespie",
             "record": { "wins": 13, "losses": 1, "draws": 0 },
@@ -43,7 +38,6 @@
             "location": "USA"
         },
         "fighter2": {
-            "_id": "507f1f77bcf86cd799439011",
             "firstName": "Brad",
             "lastName": "Riddell",
             "record": { "wins": 9, "losses": 1, "draws": 0 },
@@ -57,12 +51,10 @@
         "vegasProb": { "fighter1": 66.7, "fighter2": 33.3 },
         "vegasMoneyLine": { "fighter1": -235, "fighter2": 185 },
         "expectedValue": { "fighter1": 1.06, "fighter2": 0.73 },
-        "fightDate": "4/10/2021"
+        "fightDate": "3/20/2021"
     },
     {
-        "_id": "807f191a810c19729de860ae",
         "fighter1": {
-            "_id": "507f1f77bcf86cd799439011",
             "firstName": "Cheyanne",
             "lastName": "Buys",
             "record": { "wins": 5, "losses": 1, "draws": 0 },
@@ -73,7 +65,6 @@
             "location": "USA"
         },
         "fighter2": {
-            "_id": "507f1f77bcf86cd799439011",
             "firstName": "Montserrat",
             "lastName": "Ruiz",
             "record": { "wins": 9, "losses": 1, "draws": 0 },
@@ -87,12 +78,10 @@
         "vegasProb": { "fighter1": 75.1, "fighter2": 24.9 },
         "vegasMoneyLine": { "fighter1": -360, "fighter2": 285 },
         "expectedValue": { "fighter1": 1.03, "fighter2": 0.76 },
-        "fightDate": "4/10/2021"
+        "fightDate": "3/20/2021"
     },
     {
-        "_id": "807f191a810c19729de860ae",
         "fighter1": {
-            "_id": "507f1f77bcf86cd799439011",
             "firstName": "Adrian",
             "lastName": "Yanez",
             "record": { "wins": 12, "losses": 3, "draws": 0 },
@@ -102,8 +91,7 @@
             "reach": 70.5,
             "location": "USA"
         },
-        "fighter2": {
-            "_id": "507f1f77bcf86cd799439011",
+        "fighter2": {,
             "firstName": "Gustavo",
             "lastName": "Lopez",
             "record": { "wins": 12, "losses": 5, "draws": 0 },
@@ -117,12 +105,10 @@
         "vegasProb": { "fighter1": 63.4, "fighter2": 36.6 },
         "vegasMoneyLine": { "fighter1": -200, "fighter2": 160 },
         "expectedValue": { "fighter1": 1.20, "fighter2": 0.52 },
-        "fightDate": "4/10/2021"
+        "fightDate": "3/20/2021"
     },
     {
-        "_id": "807f191a810c19729de860ae",
         "fighter1": {
-            "_id": "507f1f77bcf86cd799439011",
             "firstName": "Song",
             "lastName": "Kenan",
             "record": { "wins": 16, "losses": 5, "draws": 0 },
@@ -133,7 +119,6 @@
             "location": "USA"
         },
         "fighter2": {
-            "_id": "507f1f77bcf86cd799439011",
             "firstName": "Max",
             "lastName": "Griffin",
             "record": { "wins": 16, "losses": 8, "draws": 0 },
@@ -147,12 +132,10 @@
         "vegasProb": { "fighter1": 39.6, "fighter2": 60.4 },
         "vegasMoneyLine": { "fighter1": 145, "fighter2": -165 },
         "expectedValue": { "fighter1": 1.50, "fighter2": 0.62 },
-        "fightDate": "4/10/2021"
+        "fightDate": "3/20/2021"
     },
     {
-        "_id": "807f191a810c19729de860ae",
         "fighter1": {
-            "_id": "507f1f77bcf86cd799439011",
             "firstName": "Tai",
             "lastName": "Tuivasa",
             "record": { "wins": 11, "losses": 5, "draws": 0 },
@@ -163,7 +146,6 @@
             "location": "USA"
         },
         "fighter2": {
-            "_id": "507f1f77bcf86cd799439011",
             "firstName": "Harry",
             "lastName": "Hunsucker",
             "record": { "wins": 6, "losses": 3, "draws": 0 },
@@ -177,12 +159,10 @@
         "vegasProb": { "fighter1": 78.9, "fighter2": 21.1 },
         "vegasMoneyLine": { "fighter1": -485, "fighter2": 350 },
         "expectedValue": { "fighter1": 0.98, "fighter2": 0.84 },
-        "fightDate": "4/10/2021"
+        "fightDate": "3/20/2021"
     },
     {
-        "_id": "807f191a810c19729de860ae",
         "fighter1": {
-            "_id": "507f1f77bcf86cd799439011",
             "firstName": "Marion",
             "lastName": "Reneau",
             "record": { "wins": 9, "losses": 6, "draws": 1 },
@@ -193,7 +173,6 @@
             "location": "USA"
         },
         "fighter2": {
-            "_id": "507f1f77bcf86cd799439011",
             "firstName": "Macy",
             "lastName": "Chiasson",
             "record": { "wins": 7, "losses": 1, "draws": 0 },
@@ -207,12 +186,10 @@
         "vegasProb": { "fighter1": 35.2, "fighter2": 64.8 },
         "vegasMoneyLine": { "fighter1": 170, "fighter2": -215 },
         "expectedValue": { "fighter1": 1.08, "fighter2": 0.88 },
-        "fi0ghtDate": "4/10/2021"
+        "fightDate": "3/20/2021"
     },
     {
-        "_id": "807f191a810c19729de860ae",
         "fighter1": {
-            "_id": "507f1f77bcf86cd799439011",
             "firstName": "Leonardo",
             "lastName": "Santos",
             "record": { "wins": 18, "losses": 4, "draws": 1 },
@@ -223,7 +200,6 @@
             "location": "USA"
         },
         "fighter2": {
-            "_id": "507f1f77bcf86cd799439011",
             "firstName": "Grant",
             "lastName": "Dawson",
             "record": { "wins": 16, "losses": 1, "draws": 0 },
@@ -237,12 +213,10 @@
         "vegasProb": { "fighter1": 35.2, "fighter2": 64.8 },
         "vegasMoneyLine": { "fighter1": 170, "fighter2": -215 },
         "expectedValue": { "fighter1": 2.09, "fighter2": 0.33 },
-        "fightDate": "4/10/2021"
+        "fightDate": "3/20/2021"
     },
     {
-        "_id": "807f191a810c19729de860ae",
         "fighter1": {
-            "_id": "507f1f77bcf86cd799439011",
             "firstName": "Trevin",
             "lastName": "Giles",
             "record": { "wins": 13, "losses": 2, "draws": 0 },
@@ -253,7 +227,6 @@
             "location": "USA"
         },
         "fighter2": {
-            "_id": "507f1f77bcf86cd799439011",
             "firstName": "Roman",
             "lastName": "Dolidze",
             "record": { "wins": 8, "losses": 0, "draws": 0 },
@@ -267,12 +240,10 @@
         "vegasProb": { "fighter1": 42.9, "fighter2": 57.1 },
         "vegasMoneyLine": { "fighter1": 125, "fighter2": -145 },
         "expectedValue": { "fighter1": 1.62, "fighter2": 0.47 },
-        "fightDate": "4/10/2021"
+        "fightDate": "3/20/2021"
     },
     {
-        "_id": "807f191a810c19729de860ae",
         "fighter1": {
-            "_id": "507f1f77bcf86cd799439011",
             "firstName": "Montel",
             "lastName": "Jackson",
             "record": { "wins": 9, "losses": 2, "draws": 0 },
@@ -283,7 +254,6 @@
             "location": "USA"
         },
         "fighter2": {
-            "_id": "507f1f77bcf86cd799439011",
             "firstName": "Jesse",
             "lastName": "Strader",
             "record": { "wins": 5, "losses": 1, "draws": 0 },
@@ -297,12 +267,10 @@
         "vegasProb": { "fighter1": 81.6, "fighter2": 18.4 },
         "vegasMoneyLine": { "fighter1": -550, "fighter2": 425 },
         "expectedValue": { "fighter1": 1.02, "fighter2": 0.78 },
-        "fightDate": "4/10/2021"
+        "fightDate": "3/20/2021"
     },
     {
-        "_id": "807f191a810c19729de860ae",
         "fighter1": {
-            "_id": "507f1f77bcf86cd799439011",
             "firstName": "Bruno",
             "lastName": "Silva",
             "record": { "wins": 10, "losses": 5, "draws": 2 },
@@ -313,7 +281,6 @@
             "location": "USA"
         },
         "fighter2": {
-            "_id": "507f1f77bcf86cd799439011",
             "firstName": "JP",
             "lastName": "Buys",
             "record": { "wins": 9, "losses": 2, "draws": 0 },
@@ -327,6 +294,6 @@
         "vegasProb": { "fighter1": 37.0, "fighter2": 63.0 },
         "vegasMoneyLine": { "fighter1": 160, "fighter2": -190 },
         "expectedValue": { "fighter1": 0.66, "fighter2": 1.14 },
-        "fightDate": "4/10/2021"
+        "fightDate": "3/20/2021"
     }
 ]
