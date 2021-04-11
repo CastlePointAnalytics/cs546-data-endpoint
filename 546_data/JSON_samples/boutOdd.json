@@ -1,0 +1,152 @@
+[
+    {
+        "_id": "807f191a810c19729de860ae",
+        "fighter1": {
+            "_id": "507f1f77bcf86cd799439011",
+            "firstName": "Deiveson",
+            "lastName": "Figueiredo",
+            "record": { "wins": 20, "losses": 1, "draws": 0 },
+            "age": 32,
+            "height": 76,
+            "weight": 205,
+            "reach": 96,
+            "location": "USA"
+        },
+        "fighter2": {
+            "_id": "507f1f77bcf86cd799439011",
+            "firstName": "Brandon",
+            "lastName": "Moreno",
+            "record": { "wins": 18, "losses": 5, "draws": 1 },
+            "age": 27,
+            "height": 76,
+            "weight": 205,
+            "reach": 96,
+            "location": "USA"
+        },
+        "cpaProb": { "fighter1": 89.1, "fighter2": 10.9 },
+        "vegasProb": { "fighter1": 73.4, "fighter2": 26.6 },
+        "vegasMoneyLine": { "fighter1": -330, "fighter2": 260 },
+        "expectedValue": { "fighter1": 1.16, "fighter2": 0.39 },
+        "fightDate": "4/10/2021"
+    },
+    {
+        "_id": "807f191a810c19729de860ae",
+        "fighter1": {
+            "_id": "507f1f77bcf86cd799439011",
+            "firstName": "Tony",
+            "lastName": "Ferguson",
+            "record": { "wins": 26, "losses": 4, "draws": 0 },
+            "age": 36,
+            "height": 76,
+            "weight": 205,
+            "reach": 96,
+            "location": "USA"
+        },
+        "fighter2": {
+            "_id": "507f1f77bcf86cd799439011",
+            "firstName": "Charles",
+            "lastName": "Oliveira",
+            "record": { "wins": 29, "losses": 8, "draws": 0 },
+            "age": 31,
+            "height": 76,
+            "weight": 205,
+            "reach": 96,
+            "location": "USA"
+        },
+        "cpaProb": { "fighter1": 62.0, "fighter2": 38.0 },
+        "vegasProb": { "fighter1": 59.9, "fighter2": 40.1 },
+        "vegasMoneyLine": { "fighter1": -165, "fighter2": 140 },
+        "expectedValue": { "fighter1": 0.99, "fighter2": 0.91 },
+        "fightDate": "4/10/2021"
+    },
+    {
+        "_id": "807f191a810c19729de860ae",
+        "fighter1": {
+            "_id": "507f1f77bcf86cd799439011",
+            "firstName": "Mackenzie",
+            "lastName": "Dern",
+            "record": { "wins": 9, "losses": 1, "draws": 0 },
+            "age": 27,
+            "height": 76,
+            "weight": 205,
+            "reach": 96,
+            "location": "USA"
+        },
+        "fighter2": {
+            "_id": "507f1f77bcf86cd799439011",
+            "firstName": "Virna",
+            "lastName": "Jandiroba",
+            "record": { "wins": 16, "losses": 1, "draws": 0 },
+            "age": 32,
+            "height": 76,
+            "weight": 205,
+            "reach": 96,
+            "location": "USA"
+        },
+        "cpaProb": { "fighter1": 31.4, "fighter2": 68.6 },
+        "vegasProb": { "fighter1": 63.0, "fighter2": 37.0 },
+        "vegasMoneyLine": { "fighter1": -190, "fighter2": 160 },
+        "expectedValue": { "fighter1": 0.47, "fighter2": 1.71 },
+        "fightDate": "4/10/2021"
+    },
+    {
+        "_id": "807f191a810c19729de860ae",
+        "fighter1": {
+            "_id": "507f1f77bcf86cd799439011",
+            "firstName": "Kevin",
+            "lastName": "Holland",
+            "record": { "wins": 20, "losses": 5, "draws": 0 },
+            "age": 28,
+            "height": 76,
+            "weight": 185,
+            "reach": 96,
+            "location": "USA"
+        },
+        "fighter2": {
+            "_id": "507f1f77bcf86cd799439011",
+            "firstName": "Jacare",
+            "lastName": "Souza",
+            "record": { "wins": 26, "losses": 8, "draws": 0 },
+            "age": 41,
+            "height": 76,
+            "weight": 185,
+            "reach": 96,
+            "location": "USA"
+        },
+        "cpaProb": { "fighter1": 12.3, "fighter2": 87.7 },
+        "vegasProb": { "fighter1": 48.9, "fighter2": 51.1 },
+        "vegasMoneyLine": { "fighter1": -105, "fighter2": -115 },
+        "expectedValue": { "fighter1": 0.24, "fighter2": 1.64 },
+        "fightDate": "4/10/2021"
+    },
+    {
+        "_id": "807f191a810c19729de860ae",
+        "fighter1": {
+            "_id": "507f1f77bcf86cd799439011",
+            "firstName": "Junior Dos",
+            "lastName": "Santos",
+            "record": { "wins": 21, "losses": 8, "draws": 0 },
+            "age": 36,
+            "height": 76,
+            "weight": 238,
+            "reach": 96,
+            "location": "USA"
+        },
+        "fighter2": {
+            "_id": "507f1f77bcf86cd799439011",
+            "firstName": "Ciryl",
+            "lastName": "Gane",
+            "record": { "wins": 6, "losses": 8, "draws": 0 },
+            "age": 41,
+            "height": 76,
+            "weight": 249,
+            "reach": 96,
+            "location": "USA"
+        },
+        "cpaProb": { "fighter1": 54.5, "fighter2": 45.5 },
+        "vegasProb": { "fighter1": 21.8, "fighter2": 78.2 },
+        "vegasMoneyLine": { "fighter1": 340, "fighter2": -440 },
+        "expectedValue": { "fighter1": 2.39, "fighter2": 0.56 },
+        "fightDate": "4/10/2021"
+    }
+]

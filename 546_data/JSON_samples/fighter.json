@@ -78,6 +78,17 @@
     },
     {
         "_id": "507f1f77bcf86cd799439011",
+        "firstName": "Jacare",
+        "lastName": "Souza",
+        "record": { "wins": 26, "losses": 8, "draws": 0 },
+        "age": 41,
+        "height": 76,
+        "weight": 185,
+        "reach": 96,
+        "location": "USA"
+    },
+    {
+        "_id": "507f1f77bcf86cd799439011",
         "firstName": "Junior Dos",
         "lastName": "Santos",
         "record": { "wins": 21, "losses": 8, "draws": 0 },
