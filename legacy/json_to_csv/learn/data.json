@@ -1,0 +1,14 @@
+{
+    "emp_details": [
+        {
+            "emp_name": "Luke",
+            "email" : "lmcevoy@stevens.edu",
+            "job_profile": "SWE"
+        },
+        {
+            "emp_name": "Matt",
+            "email" : "matt@stevens.edu",
+            "job_profile": "PM"
+        }
+    ]
+}

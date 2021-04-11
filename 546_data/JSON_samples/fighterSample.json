@@ -1,0 +1,91 @@
+[
+    {
+        "_id": "507f1f77bcf86cd799439011",
+        "firstName": "Deiveson",
+        "lastName": "Figueiredo",
+        "record": { "wins": 20, "losses": 1, "draws": 0 },
+        "age": 32,
+        "height": 76,
+        "weight": 205,
+        "reach": 96,
+        "location": "USA"
+    },
+    {
+        "_id": "507f1f77bcf86cd799439011",
+        "firstName": "Brandon",
+        "lastName": "Moreno",
+        "record": { "wins": 18, "losses": 5, "draws": 1 },
+        "age": 27,
+        "height": 76,
+        "weight": 205,
+        "reach": 96,
+        "location": "USA"
+    },
+    {
+        "_id": "507f1f77bcf86cd799439011",
+        "firstName": "Tony",
+        "lastName": "Ferguson",
+        "record": { "wins": 26, "losses": 4, "draws": 0 },
+        "age": 36,
+        "height": 76,
+        "weight": 205,
+        "reach": 96,
+        "location": "USA"
+    },
+    {
+        "_id": "507f1f77bcf86cd799439011",
+        "firstName": "Charles",
+        "lastName": "Oliveira",
+        "record": { "wins": 29, "losses": 8, "draws": 0 },
+        "age": 31,
+        "height": 76,
+        "weight": 205,
+        "reach": 96,
+        "location": "USA"
+    },
+    {
+        "_id": "507f1f77bcf86cd799439011",
+        "firstName": "Mackenzie",
+        "lastName": "Dern",
+        "record": { "wins": 9, "losses": 1, "draws": 0 },
+        "age": 27,
+        "height": 76,
+        "weight": 205,
+        "reach": 96,
+        "location": "USA"
+    },
+    {
+        "_id": "507f1f77bcf86cd799439011",
+        "firstName": "Virna",
+        "lastName": "Jandiroba",
+        "record": { "wins": 16, "losses": 1, "draws": 0 },
+        "age": 32,
+        "height": 76,
+        "weight": 205,
+        "reach": 96,
+        "location": "USA"
+    },
+    {
+        "_id": "507f1f77bcf86cd799439011",
+        "firstName": "Kevin",
+        "lastName": "Holland",
+        "record": { "wins": 20, "losses": 5, "draws": 0 },
+        "age": 28,
+        "height": 76,
+        "weight": 185,
+        "reach": 96,
+        "location": "USA"
+    },
+    {
+        "_id": "507f1f77bcf86cd799439011",
+        "firstName": "Jacare",
+        "lastName": "Souza",
+        "record": { "wins": 26, "losses": 8, "draws": 0 },
+        "age": 41,
+        "height": 76,
+        "weight": 185,
+        "reach": 96,
+        "location": "USA"
+    },
+    ]
+    

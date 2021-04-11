@@ -1,0 +1,12 @@
+,_id,fighter1,fighter2,cpaProb,vegasProb,vegasMoneyLine,expectedValue,fightDate
+_id,807f191a810c19729de860ae,507f1f77bcf86cd799439011,757f191a810c19729de860ae,,,,,4/10/2021
+firstName,807f191a810c19729de860ae,Jon,Khabib,,,,,4/10/2021
+lastName,807f191a810c19729de860ae,Jones,Nurmagomedov,,,,,4/10/2021
+record,807f191a810c19729de860ae,"{'wins': 26, 'losses': 1, 'draws': 0}","{'wins': 29, 'losses': 0, 'draws': 0}",,,,,4/10/2021
+age,807f191a810c19729de860ae,33,32,,,,,4/10/2021
+height,807f191a810c19729de860ae,193,177,,,,,4/10/2021
+weight,807f191a810c19729de860ae,93,70,,,,,4/10/2021
+reach,807f191a810c19729de860ae,214.63,70,,,,,4/10/2021
+location,807f191a810c19729de860ae,USA,Russia,,,,,4/10/2021
+fighter1,807f191a810c19729de860ae,,,43.2,48.1,-570.0,1.7000000000000002,4/10/2021
+fighter2,807f191a810c19729de860ae,,,56.8,51.9,65.0,6.2,4/10/2021

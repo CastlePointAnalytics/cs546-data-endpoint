@@ -1,0 +1,22 @@
+{
+  "_id": "507f1f77bcf86cd799439011",
+  "fightcard_id": "507f191e810c19729de860ea",
+  "setNForget": [
+    ["Fighter 1", 0.1],
+    ["Fighter 2", 0.4],
+    ["Fighter 3", 0.3]
+  ],
+  "kelly": [
+    ["Fighter 1", 0.2],
+    ["Fighter 2", 0.4],
+    ["Fighter 4", 0.5],
+    ["Fighter 5", 0.1]
+  ],
+  "parlay": {
+    "Main Card": ["Fighter 1", "Fighter 2", "Fighter 3"],
+    "Prelims": ["Fighter 4", "Fighter 5", "Fighter 6"],
+    "CPA Signature Parlay": ["Fighter 1", "Fighter 2", "Fighter 6"],
+    "Lock of the Week": "Fighter 2",
+    "Underdog": "Fighter 4"
+  }
+}
