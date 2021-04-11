@@ -1,0 +1,31 @@
+{
+  "_id": "507f1f77bcf86cd799439011",
+  "fightcard_id": "507f191e810c19729de860ea",
+  "setNForget": [
+    ["Gillespie", 0.0413],
+    ["Yanez", 0.1337],
+    ["Santos", 0.2],
+    ["Giles", 0.2],
+    ["Kenan", 0.2],
+    ["Jackson", 0.0146],
+    ["C. Buys", 0.0206],
+    ["JP Buys", 0.0927]
+  ],
+  "kelly": [
+    ["JP Buys", 0.0927],
+    ["Jackson", 0.0146],
+    ["Giles", 0.2],
+    ["Santos", 0.2],
+    ["C. Buys", 0.0206],
+    ["Kenan", 0.2],
+    ["Yanez", 0.1337],
+    ["Gillespie", 0.0413]
+  ],
+  "parlay": {
+    "Main Card": ["Gillespie", "C. Buys", "Yanez", "Tuivassa"],
+    "Prelims": ["Santos", "Giles", "Jackson", "JP Buys"],
+    "CPA Signature Parlay": ["Tuivasa", "Yanez", "Jackson"],
+    "Lock of the Week": "Jackson",
+    "Underdog": "Santos"
+  }
+}

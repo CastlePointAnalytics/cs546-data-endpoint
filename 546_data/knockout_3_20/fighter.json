@@ -1,0 +1,245 @@
+[
+    {
+        "_id": "507f1f77bcf86cd799439011",
+        "firstName": "Derek",
+        "lastName": "Brunson",
+        "record": { "wins": 21, "losses": 7, "draws": 0 },
+        "age": 37,
+        "height": 76,
+        "weight": 186,
+        "reach": 77,
+        "location": "USA"
+    },
+    {
+        "_id": "507f1f77bcf86cd799439011",
+        "firstName": "Kevin",
+        "lastName": "Holland",
+        "record": { "wins": 21, "losses": 5, "draws": 1 },
+        "age": 28,
+        "height": 76,
+        "weight": 183,
+        "reach": 81,
+        "location": "USA"
+    },
+    {
+        "_id": "507f1f77bcf86cd799439011",
+        "firstName": "Gregor",
+        "lastName": "Gillespie",
+        "record": { "wins": 13, "losses": 1, "draws": 0 },
+        "age": 34,
+        "height": 76,
+        "weight": 155,
+        "reach": 71,
+        "location": "USA"
+    },
+    {
+        "_id": "507f1f77bcf86cd799439011",
+        "firstName": "Brad",
+        "lastName": "Riddell",
+        "record": { "wins": 9, "losses": 1, "draws": 0 },
+        "age": 29,
+        "height": 76,
+        "weight": 155,
+        "reach": 71,
+        "location": "USA"
+    },
+    {
+        "_id": "507f1f77bcf86cd799439011",
+        "firstName": "Cheyanne",
+        "lastName": "Buys",
+        "record": { "wins": 5, "losses": 1, "draws": 0 },
+        "age": 25,
+        "height": 76,
+        "weight": 116,
+        "reach": 63.5,
+        "location": "USA"
+    },
+    {
+        "_id": "507f1f77bcf86cd799439011",
+        "firstName": "Montserrat",
+        "lastName": "Ruiz",
+        "record": { "wins": 9, "losses": 1, "draws": 0 },
+        "age": 28,
+        "height": 76,
+        "weight": 115,
+        "reach": 61,
+        "location": "USA"
+    },
+    {
+        "_id": "507f1f77bcf86cd799439011",
+        "firstName": "Adrian",
+        "lastName": "Yanez",
+        "record": { "wins": 12, "losses": 3, "draws": 0 },
+        "age": 27,
+        "height": 76,
+        "weight": 135,
+        "reach": 70.5,
+        "location": "USA"
+    },
+    {
+        "_id": "507f1f77bcf86cd799439011",
+        "firstName": "Gustavo",
+        "lastName": "Lopez",
+        "record": { "wins": 12, "losses": 5, "draws": 0 },
+        "age": 31,
+        "height": 76,
+        "weight": 136,
+        "reach": 67,
+        "location": "USA"
+    },
+    {
+        "_id": "507f1f77bcf86cd799439011",
+        "firstName": "Song",
+        "lastName": "Kenan",
+        "record": { "wins": 16, "losses": 5, "draws": 0 },
+        "age": 31,
+        "height": 76,
+        "weight": 171,
+        "reach": 71,
+        "location": "USA"
+    },
+    {
+        "_id": "507f1f77bcf86cd799439011",
+        "firstName": "Max",
+        "lastName": "Griffin",
+        "record": { "wins": 16, "losses": 8, "draws": 0 },
+        "age": 35,
+        "height": 76,
+        "weight": 170,
+        "reach": 76,
+        "location": "USA"
+    },
+    {
+        "_id": "507f1f77bcf86cd799439011",
+        "firstName": "Tai",
+        "lastName": "Tuivasa",
+        "record": { "wins": 11, "losses": 5, "draws": 0 },
+        "age": 28,
+        "height": 76,
+        "weight": 265,
+        "reach": 75,
+        "location": "USA"
+    },
+    {
+        "_id": "507f1f77bcf86cd799439011",
+        "firstName": "Harry",
+        "lastName": "Hunsucker",
+        "record": { "wins": 6, "losses": 3, "draws": 0 },
+        "age": 32,
+        "height": 76,
+        "weight": 249,
+        "reach": 75,
+        "location": "USA"
+    },
+    {
+        "_id": "507f1f77bcf86cd799439011",
+        "firstName": "Marion",
+        "lastName": "Reneau",
+        "record": { "wins": 9, "losses": 6, "draws": 1 },
+        "age": 43,
+        "height": 76,
+        "weight": 136,
+        "reach": 68,
+        "location": "USA"
+    },
+    {
+        "_id": "507f1f77bcf86cd799439011",
+        "firstName": "Macy",
+        "lastName": "Chiasson",
+        "record": { "wins": 7, "losses": 1, "draws": 0 },
+        "age": 29,
+        "height": 76,
+        "weight": 136,
+        "reach": 72,
+        "location": "USA"
+    },
+    {
+        "_id": "507f1f77bcf86cd799439011",
+        "firstName": "Leonardo",
+        "lastName": "Santos",
+        "record": { "wins": 18, "losses": 4, "draws": 1 },
+        "age": 41,
+        "height": 76,
+        "weight": 155,
+        "reach": 75,
+        "location": "USA"
+    },
+    {
+        "_id": "507f1f77bcf86cd799439011",
+        "firstName": "Grant",
+        "lastName": "Dawson",
+        "record": { "wins": 16, "losses": 1, "draws": 0 },
+        "age": 27,
+        "height": 76,
+        "weight": 156,
+        "reach": 72,
+        "location": "USA"
+    },
+    {
+        "_id": "507f1f77bcf86cd799439011",
+        "firstName": "Trevin",
+        "lastName": "Giles",
+        "record": { "wins": 13, "losses": 2, "draws": 0 },
+        "age": 28,
+        "height": 76,
+        "weight": 185,
+        "reach": 74,
+        "location": "USA"
+    },
+    {
+        "_id": "507f1f77bcf86cd799439011",
+        "firstName": "Roman",
+        "lastName": "Dolidze",
+        "record": { "wins": 8, "losses": 0, "draws": 0 },
+        "age": 32,
+        "height": 76,
+        "weight": 185,
+        "reach": 76,
+        "location": "USA"
+    },
+    {
+        "_id": "507f1f77bcf86cd799439011",
+        "firstName": "Montel",
+        "lastName": "Jackson",
+        "record": { "wins": 9, "losses": 2, "draws": 0 },
+        "age": 28,
+        "height": 76,
+        "weight": 136,
+        "reach": 75.5,
+        "location": "USA"
+    },
+    {
+        "_id": "507f1f77bcf86cd799439011",
+        "firstName": "Jesse",
+        "lastName": "Strader",
+        "record": { "wins": 5, "losses": 1, "draws": 0 },
+        "age": 29,
+        "height": 76,
+        "weight": 138,
+        "reach": 76,
+        "location": "USA"
+    },
+    {
+        "_id": "507f1f77bcf86cd799439011",
+        "firstName": "Bruno",
+        "lastName": "Silva",
+        "record": { "wins": 10, "losses": 5, "draws": 2 },
+        "age": 31,
+        "height": 76,
+        "weight": 126,
+        "reach": 65,
+        "location": "USA"
+    },
+    {
+        "_id": "507f1f77bcf86cd799439011",
+        "firstName": "JP",
+        "lastName": "Buys",
+        "record": { "wins": 9, "losses": 2, "draws": 0 },
+        "age": 24,
+        "height": 76,
+        "weight": 126,
+        "reach": 67,
+        "location": "USA"
+    }
+]
+    
