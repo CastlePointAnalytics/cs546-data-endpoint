@@ -91,7 +91,7 @@
             "reach": 70.5,
             "location": "USA"
         },
-        "fighter2": {,
+        "fighter2": {
             "firstName": "Gustavo",
             "lastName": "Lopez",
             "record": { "wins": 12, "losses": 5, "draws": 0 },
