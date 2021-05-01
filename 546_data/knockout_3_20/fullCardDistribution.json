@@ -22,11 +22,11 @@
       ["Gillespie", 0.0413]
     ],
     "parlay": {
-      "Main Card": ["Gillespie", "C. Buys", "Yanez", "Tuivassa"],
-      "Prelims": ["Santos", "Giles", "Jackson", "JP Buys"],
-      "CPA Signature Parlay": ["Tuivasa", "Yanez", "Jackson"],
-      "Lock of the Week": "Jackson",
-      "Underdog": "Santos"
+      "mainCard": ["Gillespie", "C. Buys", "Yanez", "Tuivassa"],
+      "prelims": ["Santos", "Giles", "Jackson", "JP Buys"],
+      "CPASignatureParlay": ["Tuivasa", "Yanez", "Jackson"],
+      "lockoftheWeek": "Jackson",
+      "underdog": "Santos"
     }
   }
 ]
