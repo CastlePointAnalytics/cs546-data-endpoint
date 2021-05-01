@@ -1,0 +1,11 @@
+{
+    "username": "",
+    "firstName": "",
+    "lastName": "",
+    "age": "",
+    "country": "",
+    "hashedPassword": "",
+    "pickEmsFuture": {"fightCardId": []},
+    "pickEmsPast": [],
+    "recentMessages": []
+}
