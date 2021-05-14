@@ -25,7 +25,7 @@
         "vegasMoneyLine": { "fighter1": -165, "fighter2": 135 },
         "expectedValue": { "fighter1": 1.26, "fighter2": 0.5 },
         "fightDate": "1/16/2020",
-        "winner": "fighter1"
+        "winner": "fighter2"
     },
     {
         "fighter1": {
@@ -305,6 +305,6 @@
         "vegasMoneyLine": { "fighter1": 160, "fighter2": -190 },
         "expectedValue": { "fighter1": 0.66, "fighter2": 1.14 },
         "fightDate": "1/16/2020",
-        "winner": "fighter1"
+        "winner": "fighter2"
     }
 ]
